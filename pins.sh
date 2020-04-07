@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -o errexit
+set -o errexit -o nounset -o pipefail
 
 openssl rsa -in rsa2048.key -outform der -pubout | openssl dgst -sha256 -binary | openssl enc -base64
 openssl rsa -in rsa3072.key -outform der -pubout | openssl dgst -sha256 -binary | openssl enc -base64

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -o errexit
+set -o errexit -o nounset -o pipefail
 
 openssl genrsa -out rsa2048.key 2048
 openssl genrsa -out rsa3072.key 3072
