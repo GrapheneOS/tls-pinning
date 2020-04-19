@@ -4,8 +4,5 @@ YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=
 Let's Encrypt Authority X4
 sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
 
-DST Root CA X3
-Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys=
-
 ISRG Root X1
 C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M=
