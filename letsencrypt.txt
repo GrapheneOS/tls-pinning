@@ -1,8 +1,23 @@
+ISRG Root X1
+C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M=
+
+ISRG Root X2
+diGVwiVYbubAI3RW4hB9xU8e/CH2GnkuvVFZE8zmgzI=
+
 Let's Encrypt Authority X3
 YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=
+
+Let's Encrypt R3
+jQJTbIh0grw0/1TkHSumWb+Fs0Ggogr621gT3PvPKG0=
+
+Let's Encrypt E1
+J2/oqMTsdhFWW/n85tys6b4yDBtb6idZayIEBx7QTxA=
 
 Let's Encrypt Authority X4
 sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
 
-ISRG Root X1
-C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M=
+Let's Encrypt R4
+5VReIRNHJBiRxVSgOTTN6bdJZkpZ0m1hX+WPd5kPLQM=
+
+Let's Encrypt E2
+vZNucrIS7293MQLGt304+UKXMi78JTlrwyeUIuDIknA=
