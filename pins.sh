@@ -16,9 +16,3 @@ for pin in ${PINS[@]}; do
 done
 
 echo
-
-for pin in ${PINS[@]}; do
-    echo -n "pin-sha256=\\\"$pin\\\"; ";
-done
-
-echo
